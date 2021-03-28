@@ -4,7 +4,7 @@
 
 |截止日期|作業連結|作業說明|
 |---|---|---|
-|3/22| |將您了解的知識與主觀想法來描述雲端運算與其產業的趨勢發展。內容不少於 250 字，並上傳 GitHub|
+|3/22|[HW1](https://github.com/hardy-enyou/fintech/tree/main/HW1)|將您了解的知識與主觀想法來描述雲端運算與其產業的趨勢發展。內容不少於 250 字，並上傳 GitHub|
 
 
 # 作業No.2 Build a Website using Amazon EC2 with LAMP
