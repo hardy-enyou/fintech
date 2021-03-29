@@ -11,7 +11,7 @@
 
 |截止日期|作業連結|作業說明|
 |---|---|---|
-|4/5| |藉由 Linux 2 虛擬機完成安裝 LAMP 解決方案包，並成功啟動網頁伺服器與資料庫伺服器的功能|
+|4/5|[HW2](https://www.youtube.com/watch?v=kxA9L8JxCyU)|藉由 Linux 2 虛擬機完成安裝 LAMP 解決方案包，並成功啟動網頁伺服器與資料庫伺服器的功能|
 
 
 # 作業NO.3 Build a Website using Amazon S3(Versioning)and AWS Amplify
