@@ -44,9 +44,13 @@ wget https://files.phpmyadmin.net/phpMyAdmin/4.9.7/phpMyAdmin-4.9.7-all-language
 
 mkdir phpMyAdmin && tar -xvzf phpMyAdmin-4.9.7-all-languages.tar.gz -C phpMyAdmin --strip-components 1
 
-缺密碼
+# 在終端機上要打的程式碼
 
 sudo mysql_secure_installation
+
+按Enter
+
+設置新密碼
 
 Y
 
