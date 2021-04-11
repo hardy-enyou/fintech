@@ -18,7 +18,7 @@
 
 |截止日期|作業連結|作業說明|
 |---|---|---|
-|4/12| |運用 S3 與Amplify 服務進行網頁部署，過程中演示版本控制功能|
+|4/12|[HW3](https://youtu.be/MmwaIeQlFqM)|運用 S3 與Amplify 服務進行網頁部署，過程中演示版本控制功能|
 
 
 # 作業No.4 Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda
