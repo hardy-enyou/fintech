@@ -25,7 +25,7 @@
 
 |截止日期|作業連結|作業說明|
 |---|---|---|
-|4/26| |運用無伺服器框架串接 Telegram Chatbot，並且成功執行DEMO文件，達到鸚鵡機器人的效果|
+|4/26|[HW4](https://youtu.be/cVs-RodPZ4U) |運用無伺服器框架串接 Telegram Chatbot，並且成功執行DEMO文件，達到鸚鵡機器人的效果|
 
 # 作業No.5 Create a Database using Amazon RDS or Amazon DynamoDB
 
