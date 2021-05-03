@@ -31,7 +31,7 @@
 
 |截止日期|作業連結|作業說明|
 |---|---|---|
-|5/3| |運用資料庫服務上傳給定的資料集，並且可透過界面進行CRUD行為|
+|5/3| [HW5](https://youtu.be/241PCvbtftQ)|運用資料庫服務上傳給定的資料集，並且可透過界面進行CRUD行為|
 
 # 作業No.6 Create a Docker Container or Build your own Project Services
 
